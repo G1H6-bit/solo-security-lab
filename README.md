@@ -10,7 +10,7 @@ A safe, self-contained Python desktop app that teaches you what four common cybe
 
 ## 📸 Screenshot
 
-> _Add your screenshot here after taking it_
+![Solo Security Lab Screenshot](Solo-Security-Lab%20.png)
 
 ---
 
